@@ -1,0 +1,10 @@
+Git is released under GPL’s open source license. It is available freely over the internet. You can use Git to manage property projects without paying a single penny. 
+As it is an open source, you can download its source code and also perform changes according to your requirements.
+As most of the operations are performed locally, it gives a huge benefit in terms of speed. Git does not rely on the central server; that is why, there is no need to interact with the remote server for every operation. 
+The core part of Git is written in C, which avoids runtime overheads associated with other high-level languages.
+Though Git mirrors entire repository, the size of the data on the client side is small. This illustrates the efficiency of Git at compressing and storing data on the client side.
+
+At the heart of GitHub is Git, an open source project started by Linux creator Linus Torvalds. Matthew McCullough, a trainer at GitHub, explains that Git, like other version control systems, manages and stores revisions of projects.
+Although it’s mostly used for code, McCullough says Git could be used to manage any other type of file, such as Word documents or Final Cut projects. Think of it as a filing system for every draft of a document.
+GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. 
+It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project.
