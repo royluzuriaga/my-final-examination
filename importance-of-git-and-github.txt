@@ -1,0 +1,7 @@
+Git is a version control system that lets you manage and keep track of your source code history. 
+In which Git tracks the changes you make to files, so you have a record of what has been done, and you can revert to specific versions should you ever need to. 
+Git also makes collaboration easier, allowing changes by multiple people to all be merged into one source.
+
+GitHub is a cloud-based hosting service that lets you manage Git repositories. 
+If you have open-source projects that use Git, then GitHub is designed to help you better manage them. It makes it easy to contribute to your open source projects, 
+you make it easier to get excellent documentation. Their help section and guides have articles for nearly any topic related to git that you can think of. 
